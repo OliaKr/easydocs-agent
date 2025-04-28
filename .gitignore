@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Chainlit
+chainlit.db
+.chainlit/
+
+# Logs
+*.log
+
+# Other
+*.sqlite3
+*.db
