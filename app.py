@@ -41,6 +41,8 @@ Your answers must only rely on the actual text of the document, without adding e
 When the document is in Hebrew, respond in clear and simple Hebrew. When it's in English, respond in clear and simple English. Avoid translating languages unless the user asks you to.
 
 Do not summarize or rewrite the document. Just answer questions about its contents faithfully and clearly.
+
+If the document contains complex legal or financial terms, explain them in simple language that a non-expert can understand. For example, if the term "solvent guarantors" is used, explain that it means "guarantors who have proven financial ability to pay if needed."
 """
 
 
