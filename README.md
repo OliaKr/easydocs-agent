@@ -77,5 +77,5 @@ chainlit run app.py
 
 ```
 
-![תמונה](public/easy1.JPG)
-![תמונה](public/easy2.JPG)
+![תמונה](https://github.com/OliaKr/easydocs-agent/blob/main/.public/easy1.JPG)
+![תמונה](https://github.com/OliaKr/easydocs-agent/blob/main/.public/easy2.JPG)
