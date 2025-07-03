@@ -143,6 +143,7 @@ def retrieve_documents(query):
 
 @cl.on_chat_start
 async def start():
+
     await cl.Message(
         content="👋 Welcome to EasyDocs. You can now ask a question based on existing documents, or upload a new PDF file."
     ).send()
